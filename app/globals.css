@@ -1,0 +1,6 @@
+html, body { padding: 0; margin: 0; }
+* { box-sizing: border-box; }
+a { color: inherit; }
+main h1 { letter-spacing: -0.02em; }
+article h2 { margin-top: 28px; }
+article ul, article ol { padding-left: 20px; }
