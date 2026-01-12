@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { getAllRecipes } from "@/lib/recipes";
+import { getAllRecipes } from "../../lib/recipes";
 
 export default function RecipesPage() {
   const recipes = getAllRecipes();
